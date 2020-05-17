@@ -48,4 +48,4 @@ All of the necessary criteria for developing the pipeline and web app is given i
 
 ## Screenshots
 This is the frontpage:
-![Alt text](https://github.com/Benzula/Disaster-Pipeline=Project/blob/master/Screenshot.PNG?raw=true "Screenshot")
+![Alt text](https://github.com/Benzula/Disaster-Pipeline/blob/master/Screenshot.PNG?raw=true "Screenshot")
