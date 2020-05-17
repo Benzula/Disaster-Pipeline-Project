@@ -44,3 +44,8 @@ All of the necessary criteria for developing the pipeline and web app is given i
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+## Screenshots
+This is the frontpage:
+![Alt text](https://github.com/Benzula/Disaster-Pipeline=Project/blob/master/Screenshot.PNG?raw=true "Screenshot")
