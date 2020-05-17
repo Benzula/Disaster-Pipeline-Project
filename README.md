@@ -49,4 +49,6 @@ All of the necessary criteria for developing the pipeline and web app is given i
 ## Screenshots
 This is the result from running it in the IDE:
 
+There are 13 Categories that have a 80% or higher precision with an average of 75%
+
 ![Alt text](https://github.com/Benzula/Disaster-Pipeline-Project/blob/master/Screenshot.PNG?raw=true "Screenshot")
