@@ -47,5 +47,6 @@ All of the necessary criteria for developing the pipeline and web app is given i
 
 
 ## Screenshots
-This is the frontpage:
+This is the result from running it in the IDE:
+
 ![Alt text](https://github.com/Benzula/Disaster-Pipeline-Project/blob/master/Screenshot.PNG?raw=true "Screenshot")
